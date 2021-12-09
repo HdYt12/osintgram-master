@@ -1,9 +1,9 @@
 # Osintgram 🔎📸
 
 [![version-1.3](https://img.shields.io/badge/version-1.3-green)](https://github.com/Datalux/Osintgram/releases/tag/1.3)
-[![Github](https://img.shields.io/badge/license-GPLv3-blue)](https://github.com/HdYt12)
+[![Github](https://img.shields.io/badge/Github-blue)](https://github.com/HdYt12)
 [![Python3](https://img.shields.io/badge/language-Python3-red)](https://www.python.org/download/releases/3.0/)
-[![Instagram](https://img.shields.io/badge/Telegram-Channel-blue.svg)](https://instagram.com/m_hdayattt)
+[![Instagram](https://img.shields.io/badge/Instagram-blue.svg)](https://instagram.com/m_hdayattt)
 
 Osintgram is a **OSINT** tool on Instagram to collect, analyze, and run reconnaissance.
 
